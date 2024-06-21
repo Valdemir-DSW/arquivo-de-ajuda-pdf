@@ -1,0 +1,4 @@
+help te
+Dark
+home,C:/Users/user/Desktop/Bem.pdf
+como usar,C:/user/Valdemir/Desktop/comousa.pdf
